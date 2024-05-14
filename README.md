@@ -1,5 +1,2 @@
 # Quantum
 Quantum
-
-
-abb
