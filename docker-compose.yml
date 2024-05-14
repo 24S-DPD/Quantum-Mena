@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  quantum:
+    image: ${DOCKER_REGISTRY-}quantum
+    build:
+      context: Quantum
+      dockerfile: Dockerfile
