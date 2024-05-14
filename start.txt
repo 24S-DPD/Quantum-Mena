@@ -1,0 +1,7 @@
+Quantum
+Web app
+Invitation handling 
+
+main features :
+- Qr Invitation 
+- Manage Email Invitation
