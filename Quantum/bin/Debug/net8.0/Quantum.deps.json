@@ -14,7 +14,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.4",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.19.6",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.2"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.2",
+          "QRCoder": "1.4.2"
         },
         "runtime": {
           "Quantum.dll": {}
@@ -1704,6 +1705,17 @@
           }
         }
       },
+      "QRCoder/1.4.2": {
+        "dependencies": {
+          "System.Drawing.Common": "7.0.0"
+        },
+        "runtime": {
+          "lib/net5.0/QRCoder.dll": {
+            "assemblyVersion": "1.4.2.0",
+            "fileVersion": "1.4.2.0"
+          }
+        }
+      },
       "System.CodeDom/5.0.0": {
         "runtime": {
           "lib/netstandard2.0/System.CodeDom.dll": {
@@ -2890,6 +2902,13 @@
       "sha512": "sha512-ypnSvEtpNGo48bAWn95J1oHChycCXcevFSbn53fqzLxlXFSZP7dawu8p/7mHAfGufZQSV2sBpW80XQGIfXO8kQ==",
       "path": "nuget.versioning/6.9.1",
       "hashPath": "nuget.versioning.6.9.1.nupkg.sha512"
+    },
+    "QRCoder/1.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-985OiJWb6Fft5r1AQ1NcpGgDDGZVKvWIF9ijV3N2lxJaTKpL2mAHAGvMXgcjRLMGSaldAcBiTFDGHCgDRpCW9A==",
+      "path": "qrcoder/1.4.2",
+      "hashPath": "qrcoder.1.4.2.nupkg.sha512"
     },
     "System.CodeDom/5.0.0": {
       "type": "package",

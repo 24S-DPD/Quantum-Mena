@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Quantum.Models;
 
 namespace Quantum.Data
 {
@@ -9,5 +10,6 @@ namespace Quantum.Data
             : base(options)
         {
         }
+        public DbSet<Quantum.Models.Event> Event { get; set; } = default!;
     }
 }

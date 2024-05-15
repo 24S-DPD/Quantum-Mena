@@ -1,11 +1,55 @@
 ﻿
 @{
+    
     ViewData["Title"] = "Event";
 }
-<h3>==== Abstract Structure ====</h3>
-<a href =" https://localhost:7001/ChecKIn/CheckIn"> Go To check in </a>
-<h3>Create Event</h3>
-<h3>Create List of Guest</h3>
-<h3>Send Invitations</h3>
-<h3>Resources Planing</h3>
+
+@using Quantum.Models
+@model List<Event>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+
+
+
+
+
+@if(Model != null && Model.Count() > 0)
+{
+
+    
+
+
+    <table class="table table-striped">
+
+        <thead>
+            <tr>
+                <th> Event ID</th>
+                <th>Event</th>
+
+            </tr>
+
+        </thead>
+
+
+
+        <tbody>
+            @foreach (var evnt in Model)
+            {
+                <tr>
+                    <td>@evnt.Id</td>
+                    <td>@evnt.Name</td>
+                    <td><a class="btn btn-link" asp-controller="InvitationCard" asp-action="Card" asp-route-id="@evnt.Name"> Create Card</a></td>
+                   
+
+                </tr>
+                
+            }
+        </tbody>
+
+
+
+    </table>
+}
+
 

@@ -3,7 +3,7 @@ version: '3.4'
 services:
   quantum:
     image: quantum:dev
-    container_name: "Quantum_1"
+    container_name: "Quantum"
     build:
       args:
         BUILD_CONFIGURATION: Debug

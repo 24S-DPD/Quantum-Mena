@@ -11,6 +11,8 @@ C:\Users\CODEX\Desktop\Quantum\bin\Debug\Microsoft.EntityFrameworkCore.dll
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\QRCoder.dll
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\System.Drawing.Common.dll
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
