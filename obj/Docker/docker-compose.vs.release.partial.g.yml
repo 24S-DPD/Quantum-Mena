@@ -2,7 +2,7 @@ version: '3.4'
 
 services:
   quantum:
-    container_name: "Quantum"
+    container_name: "Quantum_1"
     build:
       args:
         BUILD_CONFIGURATION: Release

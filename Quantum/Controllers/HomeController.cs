@@ -27,7 +27,7 @@ namespace Quantum.Controllers
         }
 
 
-        public IActionResult Event()
+        public IActionResult Events()
         {
             return View();
         }
