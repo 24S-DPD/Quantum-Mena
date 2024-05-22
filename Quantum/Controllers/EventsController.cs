@@ -21,6 +21,12 @@ namespace Quantum.Controllers
 
         //private  ApplicationDbContext _context;
 
+        [HttpGet]
+        public IActionResult AddEvent()
+        {
+            return View();
+        }
+
 
         public  IActionResult Events()
         {

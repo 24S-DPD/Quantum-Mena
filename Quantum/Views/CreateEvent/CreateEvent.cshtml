@@ -3,6 +3,8 @@
     ViewData["Title"] = "Create Event";
 }
 
+@model Quantum.Models.CreateEventViewModel
+
 <div style="">
    
         
@@ -35,15 +37,12 @@
         @* Create Event Frm *@
         <form method="post" asp-controller="CreateEvent" asp-action="CreateEvent">
 
-
-
-
             <div class="row mb-3">
 
                 <label class="col-sm-4 col-form-label" for="eventName">Event Name : </label>
 
                 <div class="col-sm-2">
-                    <input type="text" class="form-control"  style="width: 300px" placeholder="Event Name" id="eventName" />
+                    <input type="text" class="form-control"  style="width: 300px" placeholder="Event Name" id="eventName"  asp-for="Name"/>
                 </div>
 
 
@@ -55,28 +54,18 @@
                 <label class="col-sm-4 col-form-label" for="evntDate">Event Date   :</label>
 
                 <div class="col-sm-2">
-                    <input type="date" class="form-control" style="width: 300px" id="evntDate">
+                    <input type="date" class="form-control" style="width: 300px" id="evntDate" asp-for="Date"/>
                 </div>
-
-
-
 
             </div>
 
 
-
-
-
-
-
-
-
-
-
+            <div class="col-sm-2">
+                <button type="submit" class="btn-primary" style="width: 100px">Save</button>
+            </div>
 
 
         </form>
-
 
 
 

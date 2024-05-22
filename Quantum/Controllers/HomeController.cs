@@ -16,8 +16,6 @@ namespace Quantum.Controllers
         }
 
 
-
-
         public IActionResult Index()
         {
             return View();

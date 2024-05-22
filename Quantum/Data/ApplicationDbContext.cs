@@ -10,11 +10,14 @@ namespace Quantum.Data
 
    
 
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-            : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
+
         }
-        public DbSet<Quantum.Models.Event> Events { get; set; }//= default!;
+
+
+
+        public DbSet<Quantum.Models.Event> DbSet_Events { get; set; }//= default!;
 
        // public DbSet<>
 
