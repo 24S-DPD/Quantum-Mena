@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\wwwroot\\imges\\EventPageIco.png",
+      "PackagePath": "staticwebassets\\imges\\EventPageIco.png"
+    },
+    {
+      "Id": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\wwwroot\\imges\\EventsLst.png",
+      "PackagePath": "staticwebassets\\imges\\EventsLst.png"
+    },
+    {
+      "Id": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\wwwroot\\imges\\Hand.png",
+      "PackagePath": "staticwebassets\\imges\\Hand.png"
+    },
+    {
+      "Id": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\wwwroot\\imges\\QuantumLOGO2.png",
+      "PackagePath": "staticwebassets\\imges\\QuantumLOGO2.png"
+    },
+    {
       "Id": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

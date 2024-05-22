@@ -28,6 +28,44 @@
         },
         "Patterns": null
       },
+      "imges": {
+        "Children": {
+          "EventPageIco.png": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "imges/EventPageIco.png"
+            },
+            "Patterns": null
+          },
+          "EventsLst.png": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "imges/EventsLst.png"
+            },
+            "Patterns": null
+          },
+          "Hand.png": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "imges/Hand.png"
+            },
+            "Patterns": null
+          },
+          "QuantumLOGO2.png": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "imges/QuantumLOGO2.png"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
       "js": {
         "Children": {
           "site.js": {

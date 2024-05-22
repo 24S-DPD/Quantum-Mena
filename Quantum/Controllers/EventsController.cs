@@ -1,24 +1,31 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.CodeAnalysis.FlowAnalysis.DataFlow;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using Quantum.Data;
 using Quantum.Models;
-using System.Security.Policy;
+//using AWSDBConnect.Data;
+
 
 namespace Quantum.Controllers
 {
     public class EventsController : Controller
     {
-        public IActionResult Index()
+        //public IActionResult Index()
+        //{
+        //    var events = EventsRepository.GetEvents();
+
+        //    return View(events);
+        //}
+
+
+        //private  ApplicationDbContext _context;
+
+
+        public  IActionResult Events()
         {
-            var events = EventsRepository.GetEvents();
-
-            return View(events);
-        }
-
-
-
-        public IActionResult Events()
-        {
-            var events = EventsRepository.GetEvents();
+           
+            List<Event> events = EventsRepository.GetEvents();
 
             return View(events);
 

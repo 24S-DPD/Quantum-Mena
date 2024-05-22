@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Quantum.Data.Migrations;
 using Quantum.Models;
 using System.Diagnostics;
 
@@ -10,6 +11,7 @@ namespace Quantum.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            
             _logger = logger;
         }
 

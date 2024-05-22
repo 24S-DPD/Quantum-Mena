@@ -7,7 +7,8 @@
             new Event {Id = 10001, Name = "Developers Exhibtion."},
             new Event {Id = 10002, Name = "Majic Learning Exhibtion."},
             new Event {Id = 10003, Name = "Technology of SomeThing Conference."},
-            new Event {Id = 10004, Name = "Graduation Party"}
+            new Event {Id = 10004, Name = "Graduation Party"},
+            new Event {Id = 10005, Name = "SomeThing Event"}
 
         };
 
