@@ -4,7 +4,7 @@
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
     <DockerPublishLocally>False</DockerPublishLocally>
-    <ProjectGuid>8a7037f4-3e6f-4950-bbb9-3792e1503e80</ProjectGuid>
+    <ProjectGuid>f10cdfee-348b-4e7c-865c-2a851bdf31da</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}</DockerServiceUrl>
     <DockerServiceName>quantum</DockerServiceName>

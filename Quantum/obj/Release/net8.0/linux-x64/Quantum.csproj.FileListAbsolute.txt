@@ -243,7 +243,6 @@ C:\Users\CODEX\Desktop\Quantum\Quantum\bin\Release\net8.0\linux-x64\ru\Microsoft
 C:\Users\CODEX\Desktop\Quantum\Quantum\bin\Release\net8.0\linux-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\CODEX\Desktop\Quantum\Quantum\bin\Release\net8.0\linux-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 C:\Users\CODEX\Desktop\Quantum\Quantum\obj\Release\net8.0\linux-x64\Quantum.csproj.AssemblyReference.cache
-C:\Users\CODEX\Desktop\Quantum\Quantum\obj\Release\net8.0\linux-x64\Quantum.csproj.ResolveComReference.cache
 C:\Users\CODEX\Desktop\Quantum\Quantum\obj\Release\net8.0\linux-x64\Quantum.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\CODEX\Desktop\Quantum\Quantum\obj\Release\net8.0\linux-x64\Quantum.AssemblyInfoInputs.cache
 C:\Users\CODEX\Desktop\Quantum\Quantum\obj\Release\net8.0\linux-x64\Quantum.AssemblyInfo.cs
