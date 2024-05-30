@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using Quantum.Data;
 using Quantum.Models;
 
@@ -34,6 +36,27 @@ namespace Quantum.Controllers
 
 
             return View();
+        }
+
+      //  [HttpPost]
+        public async Task<IActionResult> Delete(int nEventID)
+        {
+            var evnt = await dbContext.DbSet_Events
+                .AsNoTracking()
+                .FirstOrDefaultAsync(x => x.Id == nEventID);
+
+
+            if (evnt != null)
+            {
+                dbContext.DbSet_Events.Remove(evnt);
+                await dbContext.SaveChangesAsync();
+            }
+
+            return RedirectToAction("GetEvents" ,"Events" );
+
+
+
+
         }
 
 

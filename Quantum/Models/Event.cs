@@ -8,6 +8,8 @@ namespace Quantum.Models
     {
         [Key]
         public int Id { get; set; }
+
+        public Guid evntGUID { get; set; } = Guid.NewGuid();
         public string Name { get; set; } 
         public DateTime Date { get; set; }
         

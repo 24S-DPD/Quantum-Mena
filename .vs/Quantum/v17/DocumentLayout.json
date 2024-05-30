@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\CODEX\\Desktop\\Quantum\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\obj\\container\\targetframework.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\obj\\container\\targetframework.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\obj\\container\\operatingsystemname.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\obj\\container\\operatingsystemname.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\obj\\container\\containeroperatingsystemflavor.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\obj\\container\\containeroperatingsystemflavor.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\obj\\container\\containerdevelopmentmode.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\obj\\container\\containerdevelopmentmode.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\obj\\container\\containercreationresult.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\obj\\container\\containercreationresult.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7037F4-3E6F-4950-BBB9-3792E1503E80}|docker-compose.dcproj|c:\\users\\codex\\desktop\\quantum\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8A7037F4-3E6F-4950-BBB9-3792E1503E80}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7037F4-3E6F-4950-BBB9-3792E1503E80}|docker-compose.dcproj|c:\\users\\codex\\desktop\\quantum\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A7037F4-3E6F-4950-BBB9-3792E1503E80}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\controllers\\createeventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\controllers\\createeventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\_||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\_||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\events\\getevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\events\\getevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +59,20 @@
       "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\createevent\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\createevent\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\models\\qrcodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\models\\qrcodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\controllers\\invitationcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\controllers\\invitationcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\models\\createeventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\models\\createeventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +83,20 @@
       "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\createevent\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\createevent\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,48 +107,16 @@
       "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\models\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\models\\qrcodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\models\\qrcodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\quantum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\quantum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\controllers\\invitationcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\controllers\\invitationcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\events\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\events\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\invitationcard\\card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\invitationcard\\card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,16 +127,8 @@
       "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\views\\checkin\\checkin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68084444-03AD-4A93-A833-109CB421952B}|docker-compose.dcproj|c:\\users\\codex\\desktop\\quantum\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{68084444-03AD-4A93-A833-109CB421952B}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68084444-03AD-4A93-A833-109CB421952B}|docker-compose.dcproj|c:\\users\\codex\\desktop\\quantum\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{68084444-03AD-4A93-A833-109CB421952B}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68084444-03AD-4A93-A833-109CB421952B}|docker-compose.dcproj|c:\\users\\codex\\desktop\\quantum\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{68084444-03AD-4A93-A833-109CB421952B}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|c:\\users\\codex\\desktop\\quantum\\quantum\\data\\migrations\\20240528135825_guidadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF07D3-7D4A-4D47-AFF0-571FA1C00950}|Quantum\\Quantum.csproj|solutionrelative:quantum\\data\\migrations\\20240528135825_guidadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -127,123 +143,160 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TargetFramework.cache",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\obj\\Container\\TargetFramework.cache",
+              "RelativeDocumentMoniker": "Quantum\\obj\\Container\\TargetFramework.cache",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\obj\\Container\\TargetFramework.cache",
+              "RelativeToolTip": "Quantum\\obj\\Container\\TargetFramework.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-05-30T15:24:56.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperatingSystemName.cache",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\obj\\Container\\OperatingSystemName.cache",
+              "RelativeDocumentMoniker": "Quantum\\obj\\Container\\OperatingSystemName.cache",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\obj\\Container\\OperatingSystemName.cache",
+              "RelativeToolTip": "Quantum\\obj\\Container\\OperatingSystemName.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-05-30T15:24:54.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContainerOperatingSystemFlavor.cache",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\obj\\Container\\ContainerOperatingSystemFlavor.cache",
+              "RelativeDocumentMoniker": "Quantum\\obj\\Container\\ContainerOperatingSystemFlavor.cache",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\obj\\Container\\ContainerOperatingSystemFlavor.cache",
+              "RelativeToolTip": "Quantum\\obj\\Container\\ContainerOperatingSystemFlavor.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-05-30T15:24:52.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContainerDevelopmentMode.cache",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\obj\\Container\\ContainerDevelopmentMode.cache",
+              "RelativeDocumentMoniker": "Quantum\\obj\\Container\\ContainerDevelopmentMode.cache",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\obj\\Container\\ContainerDevelopmentMode.cache",
+              "RelativeToolTip": "Quantum\\obj\\Container\\ContainerDevelopmentMode.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-05-30T15:24:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContainerCreationResult.cache",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\obj\\Container\\ContainerCreationResult.cache",
+              "RelativeDocumentMoniker": "Quantum\\obj\\Container\\ContainerCreationResult.cache",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\obj\\Container\\ContainerCreationResult.cache",
+              "RelativeToolTip": "Quantum\\obj\\Container\\ContainerCreationResult.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-05-30T15:24:46.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Dockerfile",
+              "RelativeDocumentMoniker": "Quantum\\Dockerfile",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Dockerfile",
+              "RelativeToolTip": "Quantum\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T10:48:41.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-30T10:49:20.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docker-compose",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T10:53:23.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CreateEventController.cs",
               "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\CreateEventController.cs",
               "RelativeDocumentMoniker": "Quantum\\Controllers\\CreateEventController.cs",
               "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\CreateEventController.cs",
               "RelativeToolTip": "Quantum\\Controllers\\CreateEventController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCEAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T22:31:32.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\appsettings.json",
-              "RelativeDocumentMoniker": "Quantum\\appsettings.json",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\appsettings.json",
-              "RelativeToolTip": "Quantum\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-21T15:43:22.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\Event.cs",
               "RelativeDocumentMoniker": "Quantum\\Models\\Event.cs",
               "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\Event.cs",
               "RelativeToolTip": "Quantum\\Models\\Event.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T16:35:11.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\EventsController.cs",
-              "RelativeDocumentMoniker": "Quantum\\Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\EventsController.cs",
-              "RelativeToolTip": "Quantum\\Controllers\\EventsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T03:40:59.413Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "_",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\_",
+              "RelativeDocumentMoniker": "Quantum\\_",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\_",
+              "RelativeToolTip": "Quantum\\_",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T08:22:32.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateEvent.cshtml",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\CreateEvent\\CreateEvent.cshtml",
-              "RelativeDocumentMoniker": "Quantum\\Views\\CreateEvent\\CreateEvent.cshtml",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\CreateEvent\\CreateEvent.cshtml",
-              "RelativeToolTip": "Quantum\\Views\\CreateEvent\\CreateEvent.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAiAAAA",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Quantum\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Quantum\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T23:05:17.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Quantum\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Quantum\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T00:47:36.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateEventViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\CreateEventViewModel.cs",
-              "RelativeDocumentMoniker": "Quantum\\Models\\CreateEventViewModel.cs",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\CreateEventViewModel.cs",
-              "RelativeToolTip": "Quantum\\Models\\CreateEventViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T22:25:43.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T03:43:48.114Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "Quantum\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeToolTip": "Quantum\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T04:08:42.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Quantum\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Quantum\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAQwCkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T04:09:21.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Program.cs",
               "RelativeDocumentMoniker": "Quantum\\Program.cs",
@@ -256,46 +309,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Quantum\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Quantum\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "DocumentIndex": 13,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Quantum\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Quantum\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwEIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T03:41:11.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Quantum",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Quantum.csproj",
-              "RelativeDocumentMoniker": "Quantum\\Quantum.csproj",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Quantum.csproj",
-              "RelativeToolTip": "Quantum\\Quantum.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-22T09:19:15.47Z",
+              "WhenOpened": "2024-05-15T03:40:59.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "EventsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\EventsRepository.cs",
-              "RelativeDocumentMoniker": "Quantum\\Models\\EventsRepository.cs",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\EventsRepository.cs",
-              "RelativeToolTip": "Quantum\\Models\\EventsRepository.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:16:24.961Z",
-              "EditorCaption": ""
+              "Title": "GetEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\Events\\GetEvents.cshtml",
+              "RelativeDocumentMoniker": "Quantum\\Views\\Events\\GetEvents.cshtml",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\Events\\GetEvents.cshtml",
+              "RelativeToolTip": "Quantum\\Views\\Events\\GetEvents.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:44:58.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
+              "Title": "InvitationCardController.cs",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\InvitationCardController.cs",
+              "RelativeDocumentMoniker": "Quantum\\Controllers\\InvitationCardController.cs",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\InvitationCardController.cs",
+              "RelativeToolTip": "Quantum\\Controllers\\InvitationCardController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswBsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:31:48.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "QRCodeModel.cs",
               "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\QRCodeModel.cs",
               "RelativeDocumentMoniker": "Quantum\\Models\\QRCodeModel.cs",
@@ -308,85 +359,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Dockerfile",
-              "RelativeDocumentMoniker": "Quantum\\Dockerfile",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Dockerfile",
-              "RelativeToolTip": "Quantum\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-15T00:32:04.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "InvitationCardController.cs",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\InvitationCardController.cs",
-              "RelativeDocumentMoniker": "Quantum\\Controllers\\InvitationCardController.cs",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\InvitationCardController.cs",
-              "RelativeToolTip": "Quantum\\Controllers\\InvitationCardController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAswBsAAAAHAAAA",
+              "Title": "CreateEventViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\CreateEventViewModel.cs",
+              "RelativeDocumentMoniker": "Quantum\\Models\\CreateEventViewModel.cs",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\CreateEventViewModel.cs",
+              "RelativeToolTip": "Quantum\\Models\\CreateEventViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T13:31:48.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": ".dockerignore",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\.dockerignore",
-              "RelativeDocumentMoniker": "Quantum\\.dockerignore",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\.dockerignore",
-              "RelativeToolTip": "Quantum\\.dockerignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-22T09:15:06.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CheckInController.cs",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\CheckInController.cs",
-              "RelativeDocumentMoniker": "Quantum\\Controllers\\CheckInController.cs",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\CheckInController.cs",
-              "RelativeToolTip": "Quantum\\Controllers\\CheckInController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T16:26:08.934Z",
+              "WhenOpened": "2024-05-22T22:25:43.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Events.cshtml",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\Events\\Events.cshtml",
-              "RelativeDocumentMoniker": "Quantum\\Views\\Events\\Events.cshtml",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\Events\\Events.cshtml",
-              "RelativeToolTip": "Quantum\\Views\\Events\\Events.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAIBJwCsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T03:25:14.948Z",
-              "EditorCaption": ""
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Quantum\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Quantum\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:09:21.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Card.cshtml",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\InvitationCard\\Card.cshtml",
-              "RelativeDocumentMoniker": "Quantum\\Views\\InvitationCard\\Card.cshtml",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\InvitationCard\\Card.cshtml",
-              "RelativeToolTip": "Quantum\\Views\\InvitationCard\\Card.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T14:24:54.406Z",
-              "EditorCaption": ""
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Quantum\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Quantum\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:08:42.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
+              "Title": "20240528135825_guidAdded.cs",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\Migrations\\20240528135825_guidAdded.cs",
+              "RelativeDocumentMoniker": "Quantum\\Data\\Migrations\\20240528135825_guidAdded.cs",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\Migrations\\20240528135825_guidAdded.cs",
+              "RelativeToolTip": "Quantum\\Data\\Migrations\\20240528135825_guidAdded.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:58:25.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\CreateEvent\\CreateEvent.cshtml",
+              "RelativeDocumentMoniker": "Quantum\\Views\\CreateEvent\\CreateEvent.cshtml",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\CreateEvent\\CreateEvent.cshtml",
+              "RelativeToolTip": "Quantum\\Views\\CreateEvent\\CreateEvent.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAADwv0UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T23:05:17.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Quantum\\Views\\_ViewImports.cshtml",
@@ -394,25 +428,83 @@
               "RelativeToolTip": "Quantum\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T13:29:42.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T13:29:42.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Quantum\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Quantum\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAwwDsAAAANAAAA",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Quantum\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Quantum\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:47:36.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\appsettings.json",
+              "RelativeDocumentMoniker": "Quantum\\appsettings.json",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\appsettings.json",
+              "RelativeToolTip": "Quantum\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T15:43:22.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Quantum\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Quantum\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:41:11.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EventsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\EventsRepository.cs",
+              "RelativeDocumentMoniker": "Quantum\\Models\\EventsRepository.cs",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Models\\EventsRepository.cs",
+              "RelativeToolTip": "Quantum\\Models\\EventsRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:16:24.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CheckInController.cs",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\CheckInController.cs",
+              "RelativeDocumentMoniker": "Quantum\\Controllers\\CheckInController.cs",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Controllers\\CheckInController.cs",
+              "RelativeToolTip": "Quantum\\Controllers\\CheckInController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:26:08.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Card.cshtml",
+              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\InvitationCard\\Card.cshtml",
+              "RelativeDocumentMoniker": "Quantum\\Views\\InvitationCard\\Card.cshtml",
+              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\InvitationCard\\Card.cshtml",
+              "RelativeToolTip": "Quantum\\Views\\InvitationCard\\Card.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T03:43:48.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T14:24:54.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Quantum\\Views\\_ViewStart.cshtml",
@@ -420,12 +512,11 @@
               "RelativeToolTip": "Quantum\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T05:33:44.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T05:33:44.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Quantum\\Views\\Home\\Index.cshtml",
@@ -433,12 +524,11 @@
               "RelativeToolTip": "Quantum\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T13:00:51.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T13:00:51.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "CheckIn.cshtml",
               "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\Views\\CheckIn\\CheckIn.cshtml",
               "RelativeDocumentMoniker": "Quantum\\Views\\CheckIn\\CheckIn.cshtml",
@@ -446,47 +536,7 @@
               "RelativeToolTip": "Quantum\\Views\\CheckIn\\CheckIn.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T03:46:59.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\launchSettings.json",
-              "RelativeDocumentMoniker": "launchSettings.json",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\launchSettings.json",
-              "RelativeToolTip": "launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T00:38:50.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "docker-compose.dcproj",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\docker-compose.dcproj",
-              "RelativeDocumentMoniker": "docker-compose.dcproj",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\docker-compose.dcproj",
-              "RelativeToolTip": "docker-compose.dcproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-15T00:37:38.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "C:\\Users\\CODEX\\Desktop\\Quantum\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "C:\\Users\\CODEX\\Desktop\\Quantum\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-15T00:38:56.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T03:46:59.068Z"
             }
           ]
         }

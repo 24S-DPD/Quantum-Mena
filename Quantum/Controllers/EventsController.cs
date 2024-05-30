@@ -21,20 +21,42 @@ namespace Quantum.Controllers
 
         //private  ApplicationDbContext _context;
 
-        [HttpGet]
-        public IActionResult AddEvent()
+        //[HttpGet]
+        //public IActionResult AddEvent()
+        //{
+        //    return View();
+        //}
+
+
+
+        private readonly ApplicationDbContext dbContext;
+
+        public EventsController(ApplicationDbContext dbContext)
         {
-            return View();
+            this.dbContext = dbContext;
         }
 
 
-        public  IActionResult Events()
+
+
+        public IActionResult Events()
         {
            
             List<Event> events = EventsRepository.GetEvents();
 
             return View(events);
+        }
 
+
+
+        [HttpGet]
+        public async Task<IActionResult> GetEvents()
+        {
+            var Events_LST = await dbContext.DbSet_Events.ToListAsync();
+            
+            
+            
+            return View(Events_LST);
         }
 
 
@@ -49,6 +71,8 @@ namespace Quantum.Controllers
 
             return View(eventOBJ);
         }
+
+       
 
 
     }

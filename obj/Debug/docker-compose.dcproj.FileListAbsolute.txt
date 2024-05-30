@@ -34,3 +34,13 @@ C:\Users\CODEX\Desktop\Quantum\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resource
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\publish\web.config
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\web.config
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\appsettings.Development.json
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\appsettings.json
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\publish\appsettings.Development.json
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\publish\appsettings.json
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\publish\Quantum.deps.json
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\publish\Quantum.runtimeconfig.json
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\Quantum.deps.json
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\Quantum.runtimeconfig.json

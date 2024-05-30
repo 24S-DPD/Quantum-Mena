@@ -1,0 +1,63 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model List<Event>
+@using Quantum.Models
+
+
+<div style="">
+
+    <img src="~/imges/EventsLst.png" height="100" width="100" />
+    <h3 style="text-align:center"> My Events !</h3><br />
+
+</div>
+
+
+@* go to create event  *@
+<div>
+    <a class="btn btn-info btn-sm" asp-controller="CreateEvent" asp-action="CreateEvent" asp-route-strQR=""> Create Event</a> <br />
+</div>
+
+@* Events table *@
+<div>
+    @if (Model != null && Model.Count() > 0)
+    {
+
+        <table class="table table-striped">
+
+            <thead>
+                <tr>
+                    <th> Event ID</th>
+                    <th>Event</th>
+                    <th>Event Date</th>
+                    <th>Create Crad</th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+
+
+            <tbody>
+                @foreach (var evnt in Model)
+                {
+                    <tr>
+                        <td>@evnt.Id</td>
+                        <td>@evnt.Name</td>
+                        <td>@evnt.Date</td>
+                        <td><a class="btn btn-success btn-sm" asp-controller="InvitationCard" asp-action="Card" asp-route-strQR="@evnt.Name : @evnt.evntGUID"> Create Card </a></td>
+                        <td><a class="btn btn-danger btn-sm" asp-controller="CreateEvent" asp-action="Delete" asp-route-nEventID="@evnt.Id">Delete Event</a></td>
+                        <td><a class="btn btn-primary btn-sm" asp-controller="InvitationCard" asp-action="Card" asp-route-strQR="@evnt.Name">  Edit Event </a></td>
+                    </tr>
+                }
+            </tbody>
+
+
+
+        </table>
+    }
+
+</div>

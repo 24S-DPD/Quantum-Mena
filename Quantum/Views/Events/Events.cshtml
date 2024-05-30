@@ -50,8 +50,8 @@
                                 <td>@evnt.Name</td>
                                 <td>@evnt.Date</td>
                                 <td><a class="btn btn-success btn-sm" asp-controller="InvitationCard" asp-action="Card" asp-route-strQR="@evnt.Name + @evnt.Id"> Create Card</a></td>
-                                <td><a class="btn btn-danger btn-sm" asp-controller="InvitationCard" asp-action="Card" asp-route-strQR="@evnt.Name"> Create Card</a></td>
-                                <td><a class="btn btn-primary btn-sm" asp-controller="InvitationCard" asp-action="Card" asp-route-strQR="@evnt.Name"> Create Card</a></td>
+                                <td><a class="btn btn-danger btn-sm" asp-controller="InvitationCard" asp-action="Card" asp-route-strQR="@evnt.Name">Delete</a></td>
+                                <td><a class="btn btn-primary btn-sm" asp-controller="InvitationCard" asp-action="Card" asp-route-strQR="@evnt.Name">Edit</a></td>
                             </tr>
                         }
                     </tbody>
