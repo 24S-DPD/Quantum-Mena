@@ -268,3 +268,4 @@ C:\Users\CODEX\Desktop\Quantum\Quantum\obj\Release\net8.0\linux-x64\refint\Quant
 C:\Users\CODEX\Desktop\Quantum\Quantum\obj\Release\net8.0\linux-x64\Quantum.pdb
 C:\Users\CODEX\Desktop\Quantum\Quantum\obj\Release\net8.0\linux-x64\Quantum.genruntimeconfig.cache
 C:\Users\CODEX\Desktop\Quantum\Quantum\obj\Release\net8.0\linux-x64\ref\Quantum.dll
+C:\Users\CODEX\Desktop\Quantum\Quantum\bin\Release\net8.0\linux-x64\aws-beanstalk-tools-defaults.json

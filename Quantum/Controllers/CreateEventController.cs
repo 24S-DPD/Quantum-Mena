@@ -35,7 +35,8 @@ namespace Quantum.Controllers
             await dbContext.SaveChangesAsync();
 
 
-            return View();
+            //return View();
+            return RedirectToAction("GetEvents", "Events");
         }
 
       //  [HttpPost]

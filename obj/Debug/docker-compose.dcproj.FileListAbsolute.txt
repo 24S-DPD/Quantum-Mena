@@ -44,3 +44,4 @@ C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\publish\Quantum.deps.json
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\publish\Quantum.runtimeconfig.json
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\Quantum.deps.json
 C:\Users\CODEX\Desktop\Quantum\bin\Debug\publish\Quantum.runtimeconfig.json
+C:\Users\CODEX\Desktop\Quantum\bin\Debug\aws-beanstalk-tools-defaults.json
