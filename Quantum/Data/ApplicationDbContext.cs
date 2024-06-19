@@ -18,8 +18,16 @@ namespace Quantum.Data
 
 
         public DbSet<Quantum.Models.Event> DbSet_Events { get; set; }//= default!;
+        
 
-       // public DbSet<>
+        //*> Maja 
+        public DbSet<Quantum.Models.User> DbSet_Users { get; set; }//= default!;
+
+
+
+
+
+        // public DbSet<>
 
     }
 }
