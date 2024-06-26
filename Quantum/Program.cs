@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using Quantum.Data;
+using Quantum.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -44,5 +46,17 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
+
+
+//*MyTest of creating Entity Instance
+
+
+
+//User userOBJ = new User() { UserID = 20, UserName = "MyInteranalName", UserEmail = "ThisIS Email", UserPassword = "INS PassWord" };
+
+//ApplicationDbContext thisDBX = new ApplicationDbContext(connectionString);
+//thisDBX.DbSet_Users.Add(userOBJ);
+
+
 
 app.Run();
