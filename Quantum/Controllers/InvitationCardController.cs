@@ -33,16 +33,17 @@ namespace Quantum.Controllers
 
 
         [HttpGet]
-        public IActionResult Card(string strQR)
+        public IActionResult Card(string strEventName, string strEventGUID)
         {
             QRCodeGenerator qrGen = new QRCodeGenerator();
-            QRCodeData qrData = qrGen.CreateQrCode(strQR, QRCodeGenerator.ECCLevel.Q);
+            QRCodeData qrData = qrGen.CreateQrCode(strEventGUID, QRCodeGenerator.ECCLevel.Q);
             SvgQRCode qrCodeSVG = new SvgQRCode(qrData);
 
             HtmlString svg = new HtmlString(qrCodeSVG.GetGraphic(10));
 
             ViewBag.SVG = svg;
-            ViewBag.EventName = strQR;
+            ViewBag.EventName = strEventName;
+            ViewBag.GUID = strEventGUID;
 
             return View();
         }

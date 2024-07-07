@@ -29,6 +29,22 @@
       "PackagePath": "staticwebassets\\imges\\QuantumLOGO2.png"
     },
     {
+      "Id": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\wwwroot\\imges\\image1.jpg",
+      "PackagePath": "staticwebassets\\imges\\image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\wwwroot\\imges\\image2.jpg",
+      "PackagePath": "staticwebassets\\imges\\image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\wwwroot\\imges\\image3.webp",
+      "PackagePath": "staticwebassets\\imges\\image3.webp"
+    },
+    {
+      "Id": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\wwwroot\\imges\\logo.jpg",
+      "PackagePath": "staticwebassets\\imges\\logo.jpg"
+    },
+    {
       "Id": "C:\\Users\\CODEX\\Desktop\\Quantum\\Quantum\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

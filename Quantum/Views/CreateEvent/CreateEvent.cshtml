@@ -42,7 +42,7 @@
                 <label class="col-sm-4 col-form-label" for="eventName">Event Name : </label>
 
                 <div class="col-sm-2">
-                    <input type="text" class="form-control"  style="width: 300px" placeholder="Event Name" id="eventName"  asp-for="Name"/>
+                    <input type="text" class="form-control" style="width: 300px" placeholder="Event Name" id="eventName" asp-for="Name" required />
                 </div>
 
 
@@ -54,7 +54,7 @@
                 <label class="col-sm-4 col-form-label" for="evntDate">Event Date   :</label>
 
                 <div class="col-sm-2">
-                    <input type="datetime-local" class="form-control" style="width: 300px" id="evntDate" asp-for="Date"/>
+                    <input type="datetime-local" class="form-control" style="width: 300px" id="evntDate" asp-for="Date" required />
                 </div>
 
             </div>

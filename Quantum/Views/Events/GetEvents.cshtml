@@ -22,11 +22,14 @@
     <a class="btn btn-info btn-sm" asp-controller="CreateEvent" asp-action="CreateEvent" asp-route-strQR=""> Create Event</a> <br />
 </div>
 
+
+<hr />
+
 @* Events table *@
-<div>
+<div class="flex-container">
     @if (Model != null && Model.Count() > 0)
     {
-
+       @*  //* Change from table to flex card
         <table class="table table-striped">
 
             <thead>
@@ -58,6 +61,39 @@
 
 
         </table>
+     *@
+
+
+     @foreach(var evnt in Model)
+        {
+            <div class="card">
+                
+                <div class="card-body">
+
+                <h6 class="card-title">@evnt.Name</h6>    
+
+                <p class="card-text">@evnt.Date</p>
+
+
+                    <a class="btn btn-success btn-sm" asp-controller="InvitationCard" asp-action="Card" asp-route-strEventName="@evnt.Name" asp-route-strEventGUID="@evnt.evntGUID"> Create Card </a>
+                    
+                    <a class="btn btn-primary btn-sm" asp-controller="InvitationCard" asp-action="Card" asp-route-strQR="@evnt.Name">  Edit Event </a>
+                    <hr />
+                    <a class="btn btn-danger btn-sm" asp-controller="CreateEvent" asp-action="Delete" asp-route-nEventID="@evnt.Id">Delete Event</a>
+
+                </div>
+
+
+
+            </div>
+        }
+
+
+
+
+
+
+
     }
 
 </div>

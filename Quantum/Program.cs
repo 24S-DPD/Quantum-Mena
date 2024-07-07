@@ -6,9 +6,10 @@ using Quantum.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.| intiate DB context.
+//* catch connection string 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 
+//* connect DbContext to SqlServe
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();

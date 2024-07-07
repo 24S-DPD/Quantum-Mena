@@ -10,7 +10,12 @@ namespace Quantum.Models
         public int Id { get; set; }
 
         public Guid evntGUID { get; set; } = Guid.NewGuid();
-        public string Name { get; set; } 
+
+        [Required(ErrorMessage ="Please fill event name !")]
+        public string Name { get; set; }
+
+
+        [Required(ErrorMessage ="Please set event date & time !")]
         public DateTime Date { get; set; }
         
     }

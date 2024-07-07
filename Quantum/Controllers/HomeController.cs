@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Quantum.Data.Migrations;
+//using Quantum.Data.Migrations;
 using Quantum.Models;
 using System.Diagnostics;
 

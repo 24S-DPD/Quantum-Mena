@@ -5,7 +5,7 @@ namespace Quantum.Data
 {
 
     //IdentityDbContext
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext
     {
 
 

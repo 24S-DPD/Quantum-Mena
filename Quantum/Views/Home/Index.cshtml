@@ -9,16 +9,6 @@
 
 
 
-<div class="text-center">
-   
-    <h1 class="display-4" style="color:darkslateblue" >Welcome to Quantum</h1>
-
-    <p>Learn about Quantum     <a href="">Create, Organize and Manage Invitations of your event. </a>    </p>
-
-    <br />
-
-</div>
-
 
 
 
@@ -26,7 +16,7 @@
 
 <style>
     body {
-        background-color: #f0f0f5;
+        background-color: ghostwhite;
     }
 
     .carousel-item img {
@@ -44,6 +34,7 @@
         align-items: stretch;
         position: relative;
         justify-content: end;
+        font-family: 'Arial Nova', sans-serif;
     }
 
     #cookieAlert {
@@ -72,12 +63,13 @@
         }
 
     .text-center h1 {
-        color: darkslateblue;
+        color: rgb(0, 32, 75);
+        font-family: 'Arial Nova', sans-serif;
     }
 
     .square {
-        background-color: darkslateblue;
-        border: 2px solid darkslateblue;
+        background-color: rgb(0, 32, 75);
+        border: 2px solid rgb(0, 32, 75);
         color: white;
         display: flex;
         flex-direction: column;
@@ -86,25 +78,26 @@
         padding: 15px;
         height: 100%;
         text-align: center;
-        font-family: 'Arial', sans-serif;
+        font-family: '3ds', sans-serif;
     }
 
         .square .feature {
             font-size: 1.25rem;
-            font-style: italic;
             font-weight: bold;
         }
 
         .square .text {
             color: white;
+            font-family: '3ds', sans-serif;
+            
         }
 
     .accreditations h2, .pricing h2 {
-        color: darkslateblue;
+        color: rgb(0, 32, 75);
     }
 
     footer {
-        background-color: darkslateblue;
+        background-color: rgb(0, 32, 75);
         color: white;
     }
 
@@ -115,7 +108,7 @@
         footer p {
             color: white;
         }
-
+/* 
     .navbar {
         background-color: darkslateblue;
     }
@@ -127,16 +120,28 @@
     .navbar-brand img {
         max-height: 50px;
         margin-right: 10px;
-    }
+    } */
 
     .section-title {
-        color: darkslateblue;
+        color: rgb(0, 32, 75);
         margin-top: 30px;
+        font-family: '3ds', sans-serif;
+        text-align: center;
+    }
+
+
+
+    .main-title {
+        color: rgb(0, 32, 75);
+        margin-top: 30px;
+        font-family: '3ds', sans-serif;
+        align-content:center;
+        text-align: center;
     }
 
     .quote {
         font-size: 24px;
-        font-style: italic;
+        font-family: '3ds', sans-serif;
         text-align: center;
         margin-top: 20px;
         text-shadow: 1px 1px 1px #ccc;
@@ -144,6 +149,7 @@
 
     .mission-text {
         text-align: center;
+        font-family: '3ds', sans-serif;
         margin-top: 10px;
     }
 </style>
@@ -151,33 +157,48 @@
 
 
 
+
+<div class="main-title">
+
+    
+    <h1 class="main-title" style="color:rgb(0, 32, 75)">Event with Quantum</h1>
+
+    @* <p>Quick to : <a href="">Create, Organize and Manage Invitations of your event. </a>    </p> *@
+
+
+    <hr />
+    <br />
+
+</div>
+
+
+
+
+@* cookies *@
 <div id="cookieAlert" class="cookie-alert text-center">
     <p>This website uses cookies. By continuing to use this site, you accept our use of cookies.</p>
     <button id="cookieAcceptButton" class="btn">Accept</button>
 </div>
 
-@* 
-<div class="text-center">
-    <h1 class="display-4">Welcome to Quantum</h1>
-    <p>Learn about Quantum <a href="#">Create, Organize and Manage Invitations for your event.</a></p>
-</div>
- *@
 
-
-
+ @* slide section *@
 
 <div class="slideshow-container">
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner feed-fullbleed-header__content">
+            
             <div class="carousel-item active">
                 <img src="~/imges/image1.jpg" class="d-block" alt="Slide 1">
             </div>
+
             <div class="carousel-item">
                 <img src="~/imges/image2.jpg" class="d-block" alt="Slide 2">
             </div>
+
             <div class="carousel-item">
                 <img src="~/imges/image3.webp" class="d-block" alt="Slide 3">
             </div>
+
         </div>
     </div>
 </div>
@@ -192,8 +213,8 @@
     <div class="row">
         <div class="col-12">
             <h2 class="section-title">What is Quantum?</h2>
-            <p>Quantum is a tool to plan, manage, organize, and execute events where invitees attend an event physically. Our platform provides comprehensive solutions for event management, ensuring that all aspects of your event are handled efficiently and effectively. Whether you're organizing a small gathering or a large conference, Quantum has the tools you need to make your event a success.</p>
-            <p>With Quantum, you can easily create invitations, manage RSVPs, and keep track of attendees. Our intuitive interface makes it simple to plan and execute events, so you can focus on what matters most – your guests. From customizable templates to seamless integration with other tools, Quantum offers everything you need to create a memorable event experience.</p>
+            <p class="mission-text">Quantum is a tool to plan, manage, organize, and execute events where invitees attend an event physically. Our platform provides comprehensive solutions for event management, ensuring that all aspects of your event are handled efficiently and effectively. Whether you're organizing a small gathering or a large conference, Quantum has the tools you need to make your event a success.</p>
+            <p class ="mission-text">With Quantum, you can easily create invitations, manage RSVPs, and keep track of attendees. Our intuitive interface makes it simple to plan and execute events, so you can focus on what matters most – your guests. From customizable templates to seamless integration with other tools, Quantum offers everything you need to create a memorable event experience.</p>
         </div>
     </div>
 
@@ -219,18 +240,22 @@
                 <p class="text">Our platform is designed to be user-friendly, making it easy for anyone to plan and manage events.</p>
             </div>
         </div>
+
+
         <div class="col-md-3 d-flex align-items-stretch">
             <div class="square text-center p-3">
                 <p class="feature">Enhanced Customization</p>
                 <p class="text">Tailor every aspect of your event to suit your needs with our extensive customization options.</p>
             </div>
         </div>
+
         <div class="col-md-3 d-flex align-items-stretch">
             <div class="square text-center p-3">
                 <p class="feature">Seamless Mobile Experience</p>
                 <p class="text">Manage your events on the go with our mobile-friendly platform, ensuring you stay connected at all times.</p>
             </div>
         </div>
+
         <div class="col-md-3 d-flex align-items-stretch">
             <div class="square text-center p-3">
                 <p class="feature">Superior Customer Support</p>
@@ -240,7 +265,13 @@
     </div>
 </div>
 
-<section class="pricing mt-4">
+
+
+
+Price box
+
+
+<section class="flex-card">
     <div class="container">
         <h2 class="text-center">Pricing</h2>
         <div class="row justify-content-center">
@@ -263,7 +294,10 @@
     </div>
 </section>
 
-<footer class="text-center py-4 mt-4">
+
+
+
+<footer class>
     <div class="container">
         <div class="row">
             <div class="col-md-4">

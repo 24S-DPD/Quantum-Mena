@@ -54,6 +54,38 @@
             },
             "Patterns": null
           },
+          "image1.jpg": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "imges/image1.jpg"
+            },
+            "Patterns": null
+          },
+          "image2.jpg": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "imges/image2.jpg"
+            },
+            "Patterns": null
+          },
+          "image3.webp": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "imges/image3.webp"
+            },
+            "Patterns": null
+          },
+          "logo.jpg": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "imges/logo.jpg"
+            },
+            "Patterns": null
+          },
           "QuantumLOGO2.png": {
             "Children": null,
             "Asset": {
